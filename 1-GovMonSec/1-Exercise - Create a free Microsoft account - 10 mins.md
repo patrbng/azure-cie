@@ -1,7 +1,7 @@
 # Exercise - Create a free Microsoft account
 
 _Recording of exercise review_
-_https://siriusazureciestg.blob.core.windows.net/videos/1-Exercise-Recording.mp4_
+_https://siriusazureciestg.blob.core.windows.net/videos/section1/1-Exercise-Recording.mp4_
 
 * 10 minutes
 

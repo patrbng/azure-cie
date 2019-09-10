@@ -1,5 +1,8 @@
 # Exercise - Customize the dashboard
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section1/4-Exercise-Recording.mp4_
+
 * 10 minutes
 
 Dashboards are a flexible tool for managing different aspects of Azure services through the Portal. They make it convenient to monitor the state of your services. Because they are shareable, they help ensure that everyone on your team sees the same data and stays aware of the state of your critical components. Let's create a new dashboard and add some tiles to it.

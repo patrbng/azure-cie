@@ -1,5 +1,8 @@
 # Exercise - Use the Azure portal
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section1/4-Exercise-Recording.mp4_
+
 * 10 minutes
 
 In this lab, you will learn about features and services available in the Azure portal user interface (UI).

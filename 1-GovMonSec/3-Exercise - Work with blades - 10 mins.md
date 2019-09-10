@@ -1,7 +1,7 @@
 # Exercise - Work with blades
 
 _Recording of exercise review_
-_<https://siriusazureciestg.blob.core.windows.net/videos/3-Exercise-Recording.mp4>_
+_<https://siriusazureciestg.blob.core.windows.net/videos/section1/3-Exercise-Recording.mp4>_
 
 * 10 minutes
 
