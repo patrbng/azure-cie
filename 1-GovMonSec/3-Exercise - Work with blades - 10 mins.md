@@ -1,5 +1,8 @@
 # Exercise - Work with blades
 
+_Recording of exercise review_
+_<https://siriusazureciestg.blob.core.windows.net/videos/3-Exercise-Recording.mp4>_
+
 * 10 minutes
 
 In this lab, you will learn how to work with blades in the Azure portal user interface (UI).

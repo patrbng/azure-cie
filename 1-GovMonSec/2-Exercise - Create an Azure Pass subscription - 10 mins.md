@@ -1,5 +1,8 @@
 # Exercise - Create an Azure Pass subscription
 
+_Recording of exercise review_
+_<https://siriusazureciestg.blob.core.windows.net/videos/2-Exercise-Recording.mp4>_
+
 * 10 minutes
 
 You will be creating a new Microsoft Azure subscription, using an Azure Pass token (pass), provided to you for this session.
