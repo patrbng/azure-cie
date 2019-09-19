@@ -1,5 +1,8 @@
 # Exercise - Deploy your code to App Service
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section5/3-Exercise-Recording.mp4_
+
 * 20 minutes
 
 In this unit, you'll deploy your C Sharp web application to App Service.

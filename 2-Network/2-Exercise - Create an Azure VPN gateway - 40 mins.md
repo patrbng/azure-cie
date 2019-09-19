@@ -1,5 +1,8 @@
 # Exercise - Create an Azure VPN gateway
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section2/2-Exercise-Recording.mp4_
+
 * 40 minutes
 
 You want to ensure that you can connect clients or sites within your environment into Azure using encrypted tunnels across the public Internet. In this lab, you'll create a point-to-site VPN gateway, and then connect to that gateway from your client computer. You'll use native Azure certificate authentication connections for security.

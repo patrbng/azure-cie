@@ -1,5 +1,8 @@
 # Exercise - Create a web app in the Azure portal
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section5/1-Exercise-Recording.mp4_
+
 * 10 minutes
 
 In this lab, you will use the Azure portal to create a web app.

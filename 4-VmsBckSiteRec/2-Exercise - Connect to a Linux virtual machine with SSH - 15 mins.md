@@ -1,5 +1,8 @@
 # Exercise - Connect to a Linux virtual machine with SSH
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section4/2-Exercise-Recording.mp4_
+
 * 15 minutes
 
 Let's connect to our Linux VM with SSH, and configure Apache, so we have a running web server.

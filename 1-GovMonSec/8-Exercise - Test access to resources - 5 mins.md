@@ -1,5 +1,10 @@
 # Exercise - Test access to resources
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section1/8-Exercise-Recording.mp4_
+
+<!--- Was forced to change Isabella's password before continuing --->
+
 * 5 minutes
 
 In the previous exercises, we created a directory, created a user and group, and then created a conditional access rule that requires Azure Multi-Factor Authentication when accessing the Azure portal. Now, we'll test if we can access our resources.

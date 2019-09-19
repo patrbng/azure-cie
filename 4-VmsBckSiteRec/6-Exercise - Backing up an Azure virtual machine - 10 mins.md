@@ -1,5 +1,8 @@
 # Exercise - Backing up an Azure virtual machine
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section4/6-Exercise-Recording.mp4_
+
 * 10 minutes
 
 Your company is running a combination of Windows and Linux workloads, and you've been asked to prove Azure Backup is a good fit for both kinds of virtual machines. Using a combination of Azure CLI and the Azure portal, you're going protect both kinds of virtual machines with Azure Backup.

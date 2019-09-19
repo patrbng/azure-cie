@@ -1,5 +1,10 @@
 # Exercise - Secure access to resources
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section1/7-Exercise-Recording.mp4_
+
+<!--- We need to add steps to starting the AD Premium trial and assigning licenses followed by a signout/signin --->
+
 * 3 minutes
 
 In the previous exercise, we enabled trial licenses, created a directory, created a user, and created a group to test our solution. In this unit, we will create our conditional access rule to require Azure Multi-Factor Authentication for the Azure portal.

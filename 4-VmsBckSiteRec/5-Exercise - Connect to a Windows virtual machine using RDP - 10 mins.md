@@ -1,5 +1,8 @@
 # Exercise - Connect to a Windows virtual machine using RDP
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section4/5-Exercise-Recording.mp4_
+
 * 10 minutes
 
 You have your Windows VM deployed and running, but it's not configured to do any work.

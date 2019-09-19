@@ -1,5 +1,8 @@
 # Exercise - Create an Azure virtual network
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section2/1-Exercise-Recording.mp4_
+
 * 20 minutes
 
 In this exercise, you will create a virtual network in Microsoft Azure. You will then create two virtual machines and use the virtual network to connect the virtual machines and to the Internet.

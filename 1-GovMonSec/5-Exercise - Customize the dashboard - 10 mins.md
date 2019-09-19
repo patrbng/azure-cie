@@ -1,7 +1,7 @@
 # Exercise - Customize the dashboard
 
 _Recording of exercise review_
-_https://siriusazureciestg.blob.core.windows.net/videos/section1/4-Exercise-Recording.mp4_
+_https://siriusazureciestg.blob.core.windows.net/videos/section1/5-Exercise-Recording.mp4_
 
 * 10 minutes
 

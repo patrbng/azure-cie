@@ -1,5 +1,8 @@
 # Exercise - Write code to implement a web application
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section5/2-Exercise-Recording.mp4_
+
 * 10 minutes
 
 In this unit, you will use developer tools to create the C Sharp code for a starter web application.

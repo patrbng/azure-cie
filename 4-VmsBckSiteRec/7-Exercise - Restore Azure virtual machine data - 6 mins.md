@@ -1,5 +1,8 @@
 # Exercise - Restore Azure virtual machine data
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section4/7-Exercise-Recording.mp4_
+
 * 6 minutes
 
 A few days after your first Azure virtual machine backup was completed, the server had issues and it needs to be restored from a backup. You want to restore the virtual machine's disk and attach it to the problematic live server, and then track the restore to ensure that it has completed successfully.

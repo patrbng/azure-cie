@@ -1,5 +1,8 @@
 # Exercise - Create a storage account using the Azure portal
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section3/1-Exercise-Recording.mp4_
+
 * 7 minutes
 
 In this lab, you'll use the Azure portal to create a storage account that we will use in later labs to store VM boot diagnostics data.

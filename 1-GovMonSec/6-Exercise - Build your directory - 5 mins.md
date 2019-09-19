@@ -1,5 +1,10 @@
 # Exercise - Build your directory
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section1/6-Exercise-Recording.mp4_
+
+<!--- I would add the usage location to each user to speed up the next step --->
+
 * 5 minutes
 
 You decide to deploy Azure AD and use conditional access policies that Azure require Multi-Factor Authentication when anyone accesses the Azure portal. You need to create a directory and get temporary licenses in place.

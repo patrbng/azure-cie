@@ -1,5 +1,8 @@
 # Exercise - Create a Windows virtual machine
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section4/4-Exercise-Recording.mp4_
+
 * 10 minutes
 
 In this lab you will create a new Windows VM and add a data disk to it, to make it ready for production. This VM will be configured as an FTP server, and will host a third-party application.

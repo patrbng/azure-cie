@@ -1,5 +1,8 @@
 # Exercise - Configure network settings
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section4/3-Exercise-Recording.mp4_
+
 * 10 minutes
 
 Let's apply a network security group to our network, so that we only allow HTTP traffic through our server.

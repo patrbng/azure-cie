@@ -1,5 +1,8 @@
 # Exercise - Create a VM using the Azure portal
 
+_Recording of exercise review_
+_https://siriusazureciestg.blob.core.windows.net/videos/section4/1-Exercise-Recording.mp4_
+
 * 15 minutes
 
 You've planned out the network infrastructure and identified a few VMs to migrate to the cloud. You have several choices for creating your VMs. The choice you make depends on the environment you're comfortable with. Azure supports a web-based portal for creating and administering resources. You can also choose to use command-line tools that run on MacOS, Windows, and Linux.
